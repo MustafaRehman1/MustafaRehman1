@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exersise-1</title>
+</head>
+
+<body>
+    <H1>QUESTION</H1>
+    <h3>You are given 12 files; 6 audios & 6 videos
+        Design a website using html which shows these 12 files
+    </h3>
+    <main>
+        <h1>ANSWER:</h1>
+
+        <h1>Audios</h1>
+        <audio src="Audio/1.mp3" controls></audio>
+        <audio src="Audio/2.mp3" controls></audio>
+        <audio src="Audio/3.mp3" controls></audio>
+        <audio src="Audio/4.mp3" controls></audio>
+        <audio src="Audio/5.mp3" controls></audio>
+        <audio src="Audio/6.mp3" controls></audio>
+
+        <h1>Videos</h1>
+        <video src="Video/1.mp4" width="450" controls></video>
+        <video width="450" src="Video/2.mp4" controls></video>
+        <video width="450" src="Video/3.mp4" controls></video>
+        <video width="450" src="Video/4.mp4" controls></video>
+        <video width="450" src="Video/5.mp4" controls></video>
+        <video width="450" src="Video/6.mp4" controls></video>
+
+    </main>
+
+
+</body>
+
+</html>
